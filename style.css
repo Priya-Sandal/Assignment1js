@@ -1,0 +1,57 @@
+.body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.operators{
+    background-color: #ddd;
+    border-color: #aaa;
+    font-size: large;
+    
+}
+
+.input{
+    height: 45px;
+    font-size: 30px;
+    font-weight: 300;
+    margin: 5px;
+    border-color: #ddd;
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 2px;
+    width: 420px;
+}
+
+.calculator{
+    width: 500px;
+    height: 350px;
+    border-style: solid;
+    border-width: 1px;
+
+    border-color: #ddd;
+    padding: 20px;
+}
+.numbers{
+    background-color: #f9f9f9;
+    border-color: #ddd;
+    border-style: solid;
+}
+
+
+.equal{
+    height: 300px;
+    background-color: blue;
+    color: white;
+}
+
+
+.all{
+    margin: 5px;
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    cursor: pointer;
+}
